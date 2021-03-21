@@ -3,3 +3,4 @@ Jinja2==2.6
 Werkzeug==0.8.3
 gunicorn==0.14.2
 https://github.com/webpy/webpy/archive/0.61.tar.gz
+pip install gevent --pre
